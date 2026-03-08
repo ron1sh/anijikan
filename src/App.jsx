@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import { createBrowserRouter, RouterProvider,Outlet,Navigate } from 'react-router-dom'
 import Searchpage from "./components/Searchpage";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function Layout(){
     return(
